@@ -58,8 +58,6 @@ Frontend
 
 ## Certification:
 
-## Certification:
-
 <embed src="rsschool-cv/sertificates_by_Alllook/7647136_1968675.en.pdf" width="600" height="400" type="application/pdf">
 <embed src="rsschool-cv/sertificates_by_Alllook/7647136_2206323.ru.pdf" width="600" height="400" type="application/pdf">
 <embed src="rsschool-cv/sertificates_by_Alllook/7647136_2326778.en.pdf" width="600" height="400" type="application/pdf">
