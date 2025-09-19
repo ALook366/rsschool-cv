@@ -57,16 +57,39 @@ Frontend
 
 
 ## Certification:
-
-<embed src="sertificates_by_AllLook/7647136_1968675.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2206323.ru.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2326778.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2587103.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2587129.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2587383.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2680272.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2680276.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2680279.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2680280.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2680282.en.pdf" width="600" height="400" type="application/pdf">
-<embed src="sertificates_by_AllLook/7647136_2808057.en.pdf" width="600" height="400" type="application/pdf">
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_1968675.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2206323.ru.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2326778.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2587103.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2587129.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2587383.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2680272.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2680276.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2680279.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2680280.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2680282.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
+<div style="width:800px; height:600px; margin:auto;">
+  <embed src="sertificates_by_AllLook/7647136_2808057.en.pdf" width="100%" height="100%" type="application/pdf">
+</div>
